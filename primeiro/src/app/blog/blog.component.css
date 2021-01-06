@@ -1,0 +1,10 @@
+p{
+    display: line;
+    position: relative;
+    top: 5px;
+    left:480px;
+    right: 300px;
+    bottom: 600px;
+    font-size: 3em;
+    color:#778899;
+}
